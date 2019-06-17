@@ -4,7 +4,7 @@
 
   <groupId>org.fusesource.example</groupId>
     <artifactId>cxf-basic</artifactId>
-    <version>9.1-SNAPSHOT</version>
+    <version>9.1</version>
     <packaging>bundle</packaging>
     <name>JBoss Fuse Quickstart: soap</name>
     <description>SOAP example using JAXWS</description>
@@ -21,7 +21,7 @@
    <scm>
                 <connection>scm:git:https://github.com/rodrigues552/cxf-basic.git</connection>
                 <developerConnection>scm:git:https://github.com/rodrigues552/cxf-basic.git</developerConnection>
-    <tag>cxf-basic-2.0</tag>
+    <tag>cxf-basic-9.1</tag>
   </scm>
 
 
