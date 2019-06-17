@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1560782530575
+Bnd-LastModified: 1560782653661
 Build-Jdk: 1.8.0_181
 Built-By: raraujo
 Bundle-Description: SOAP example using JAXWS
@@ -7,9 +7,9 @@ Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.html
 Bundle-ManifestVersion: 2
 Bundle-Name: JBoss Fuse Quickstart: soap
 Bundle-SymbolicName: org.fusesource.example.cxf-basic
-Bundle-Version: 3.1.0
+Bundle-Version: 3.2.0
 Created-By: Apache Maven Bundle Plugin
-Export-Package: org.fusesource.example;uses:="javax.jws";version="3.1.0"
+Export-Package: org.fusesource.example;uses:="javax.jws";version="3.2.0"
 Import-Package: io.fabric8.cxf.endpoint,javax.jws;version="[0,3)",javax.
  wsdl,javax.xml.namespace,org.apache.cxf.helpers,org.apache.cxf.transpor
  t.http,org.osgi.service.blueprint;version="[1.0.0,2.0.0)"
